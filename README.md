@@ -3,7 +3,7 @@
    <a href="https://github.com/felipecomarques/picto-viewer-plus/blob/main/docs/README.pt-br.md">Portuguese</a>
 </p>
 
-![logo](docs\resources\logo-white-read.png 'PictoViewer+')
+![logo](docs/resources/logo-white-read.png 'PictoViewer+')
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue">
